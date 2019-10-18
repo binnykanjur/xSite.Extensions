@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Extensions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Extension>
+    <Name>StartBootstrap.CleanBlog.Theme</Name>
+    <ManifestUrl>https://raw.githubusercontent.com/binnykanjur/xSite.Theme.StartBootstrap.CleanBlog/master/manifest.xml</ManifestUrl>
+  </Extension>
+  <Extension>
+    <Name>Bootstrap.Blog.Theme</Name>
+    <ManifestUrl>https://raw.githubusercontent.com/binnykanjur/xSite.Theme.Bootstrap.Blog/master/manifest.xml</ManifestUrl>
+  </Extension>
+  <Extension>
+    <Name>Minima.Theme</Name>
+    <ManifestUrl>https://raw.githubusercontent.com/binnykanjur/xSite.Theme.Minima/master/manifest.xml</ManifestUrl>
+  </Extension>
+</Extensions>
